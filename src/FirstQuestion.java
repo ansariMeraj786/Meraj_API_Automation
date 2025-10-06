@@ -1,4 +1,3 @@
-package tests;
 
 import org.testng.annotations.Test;
 
@@ -14,7 +13,5 @@ public class FirstQuestion {
         int z = x + y;
         System.out.println(z);
         System.out.println("Check result");
-
-        System.out.println("Pass");
     }
 }
